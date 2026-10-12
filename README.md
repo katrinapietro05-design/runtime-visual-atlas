@@ -16,3 +16,8 @@ This repository contains reproducible charts, runtime visualizations, and equati
 - Canon ↔ Runtime Coverage Heat Map
 
 All current numeric series are synthetic demonstration data unless explicitly marked empirical. Equations are preserved exactly as authored.
+
+
+## Research status and evidence
+
+See [RESEARCH_STATUS.yaml](./RESEARCH_STATUS.yaml) for the version, release, DOI, evidence class, validation state, source-register guidance, and rights metadata. Update that record when those facts change. Cite sources beside claims that depend on them; citation alone does not grant reuse permission.
